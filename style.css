@@ -1,0 +1,22 @@
+.main_div{
+    background-color: burlywood;
+}
+
+.body
+{
+    background-color: beige;
+}
+
+.header_div
+{
+    background-color:gray;
+}
+
+#title{
+    text-shadow: 5px 5px 5px grey;
+}
+
+.copy_right_footer
+{
+    background-color: white;
+}
